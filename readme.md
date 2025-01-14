@@ -20,8 +20,8 @@ This project demonstrates the development of a full-stack Movie-App, featuring a
 
 ## Source Code
 
-- **Backend**: [GitHub Repository]()
-- **Frontend**: [GitHub Repository]()
+- **Backend**: [GitHub Repository](https://github.com/riasat97/movieAPI-backend)
+- **Frontend**: [GitHub Repository](https://github.com/riasat97/movieAPI-frontend)
 
 ## Prerequisites
 
